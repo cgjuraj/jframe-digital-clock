@@ -1,2 +1,2 @@
 # jframe-digital-clock
-My first ever project. I experimented with JFrame and time/date variables. Running the app displays current local time.
+Running the app opens a window that displays current local time.
